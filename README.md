@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @abhilashb2
+- 👋 Hi, I’m @Abhilash
 - 👀 I’m interested in Human Resource domain
 - 🌱 I’m currently learning Human Resources Factories Act
-- 💞️ I’m looking to collaborate on HR people
+- 💞️ I’m looking to collaborate on HR people / groups / community
 - 📫 How to reach me abhilashb2@gmail.com
 
 <!---
